@@ -1,2 +1,2 @@
 # Game-on-screen
-This game is a ellipse then you move the mouse and more ellipses is crating
+You move the mouse and then some circles come off the mouse and it looks great as a wallpaper.
